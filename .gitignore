@@ -1,0 +1,4 @@
+**/kernel.bin
+.vscode-ctags
+build/
+dist/
